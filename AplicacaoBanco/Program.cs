@@ -1,7 +1,13 @@
+using AplicacaoBanco.Repository;
+using AplicacaoBanco.Repository.Contract;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 var app = builder.Build();
 

@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\AplicacaoBanco\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T12:19:06.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:56:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:56:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
+              "RelativeToolTip": "AplicacaoBanco\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T12:28:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:19:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:05:27.764Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:25:21.125Z",
+              "EditorCaption": ""
             }
           ]
         }

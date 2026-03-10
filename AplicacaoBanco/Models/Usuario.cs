@@ -19,7 +19,7 @@ namespace AplicacaoBanco.Models
 
         [Display(Name = "Nascimento")]
         [Required(ErrorMessage = "O campo nascimento é obrigatório")]
-        [DataType(DataType.DataTime)]
+        [DataType(DataType.DateTime)]
         public DataSetDateTime DataNasc { get; set; }
     }
     

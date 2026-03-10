@@ -1,4 +1,5 @@
-﻿using AplicacaoBanco.Models;
+﻿using AplicacaoBanco.Controllers;
+using AplicacaoBanco.Models;
 
 namespace AplicacaoBanco.Repository.Contract
 {
@@ -10,5 +11,6 @@ namespace AplicacaoBanco.Repository.Contract
         void Atualizar(Usuario usuario);
         Usuario ObterUsuario(int Id);
         void Excluir(int Id);
+        void Cadastrar(UsuarioController usuario);
     }
 }
