@@ -1612,14 +1612,7 @@
           }
         }
       },
-      "System.Text.Json/8.0.6": {
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1825.31117"
-          }
-        }
-      },
+      "System.Text.Json/8.0.6": {},
       "System.Threading.Channels/7.0.0": {},
       "System.Windows.Extensions/8.0.0": {
         "runtime": {

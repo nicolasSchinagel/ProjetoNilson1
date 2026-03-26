@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\",
+  "WorkspaceRootPath": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson1\\aplicacaobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|c:\\users\\3mtec\\documents\\projetonilson1\\aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE3CCE-CABB-49E3-BEA6-4F291F72307F}|AplicacaoBanco\\AplicacaoBanco.csproj|solutionrelative:aplicacaobanco\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,84 +54,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetalhesUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T11:42:56.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AtualizarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T11:22:32.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoBanco\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "AplicacaoBanco\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwFgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswF8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:19:09.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T00:37:05.44Z",
+              "WhenOpened": "2026-03-17T11:42:56.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
-              "RelativeToolTip": "AplicacaoBanco\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:05:27.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
               "RelativeToolTip": "AplicacaoBanco\\Repository\\Contract\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +101,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Models\\Usuario.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Models\\Usuario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:05:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T12:19:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\appsettings.json",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
+              "RelativeToolTip": "AplicacaoBanco\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T12:28:34.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:56:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T00:37:05.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
               "RelativeDocumentMoniker": "AplicacaoBanco\\Program.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Program.cs",
               "RelativeToolTip": "AplicacaoBanco\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,53 +176,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CadastrarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "AplicacaoBanco\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:19:06.527Z"
+              "WhenOpened": "2026-03-17T11:22:32.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson1\\AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AplicacaoBanco\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-13T12:16:39.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\appsettings.json",
-              "RelativeToolTip": "AplicacaoBanco\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T12:28:34.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoNilson1\\AplicacaoBanco\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "AplicacaoBanco\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:56:22.666Z",
-              "EditorCaption": ""
             }
           ]
         }
