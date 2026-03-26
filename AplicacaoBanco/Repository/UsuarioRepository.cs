@@ -18,12 +18,19 @@ namespace AplicacaoBanco.Repository
             using(var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("Update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, " + " DataNASC=@DataNasc where IdUsu=@IdUsu;", conexao);
+                MySqlCommand cmd = new MySqlCommand("call spAtualizarUsuario(@nomeUsu, @Cargo, @DataNasc, @CEP, @Estado, @Cidade, @Bairro, @Logradouro, @Complemento, @Numero, @IdUsu)", conexao);
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
                 cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc.ToString("yyyy/MM/dd");
                 cmd.Parameters.Add("@IdUsu", MySqlDbType.VarChar).Value = usuario.IdUsu;
+                cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = usuario.CEP;
+                cmd.Parameters.Add("@Estado", MySqlDbType.VarChar).Value = usuario.Estado;
+                cmd.Parameters.Add("@Cidade", MySqlDbType.VarChar).Value = usuario.Cidade;
+                cmd.Parameters.Add("@Bairro", MySqlDbType.VarChar).Value = usuario.Bairro;
+                cmd.Parameters.Add("@Logradouro", MySqlDbType.VarChar).Value = usuario.Logradouro;
+                cmd.Parameters.Add("@Complemento", MySqlDbType.VarChar).Value = usuario.Complemento;
+                cmd.Parameters.Add("@Numero", MySqlDbType.Int32).Value = usuario.Numero;
                 cmd.ExecuteNonQuery();
                 conexao.Close();
             }
@@ -60,7 +67,7 @@ namespace AplicacaoBanco.Repository
             using(var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("delete from usuario where IdUsu=@IdUsu", conexao);
+                MySqlCommand cmd = new MySqlCommand("call spDeletarUsuario(@IdUsu)", conexao);
                 cmd.Parameters.AddWithValue("@IdUsu", Id);
                 int i = cmd.ExecuteNonQuery();
                 conexao.Close();

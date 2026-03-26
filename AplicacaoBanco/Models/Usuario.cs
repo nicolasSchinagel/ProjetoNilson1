@@ -44,7 +44,6 @@ namespace AplicacaoBanco.Models
         public string? Logradouro { get; set; }
 
         [Display(Name = "Complemento")]
-        [Required(ErrorMessage = "O campo Complemento é obrigatório")]
         public string? Complemento { get; set; }
 
         [Display(Name = "Número")]
