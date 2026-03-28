@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Lista de usuários</h1>
 
 <p>
     <a asp-action="CadastrarUsuario">Criar novo</a>
@@ -85,13 +85,13 @@
                 @Html.DisplayFor(modelItem => item.Numero)
             </td>
             <td>
-                <button type="button" class="btn btn-warning">
+                <button type="button" class="btn btn-warning margin-top-10px">
                    @Html.ActionLink("Editar", "AtualizarUsuario", new { id=item.IdUsu })
                 </button>
-                <button type="button" class="btn btn-secondary">
+                <button type="button" class="btn btn-secondary margin-top-10px">
                    @Html.ActionLink("Detalhes", "DetalhesUsuario", new { id=item.IdUsu })
                 </button>
-                <button type="button" class="btn btn-danger">
+                <button type="button" class="btn btn-danger margin-top-10px">
                 @Html.ActionLink("Excluir", "ExcluirUsuario", new { id=item.IdUsu},
                 new{ onclick = "return confirm('Deseja realmente desativar?');"})
                 </button>

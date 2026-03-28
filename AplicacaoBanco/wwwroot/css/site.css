@@ -31,5 +31,16 @@ body {
     align-items: center;
 }
 .width-200px{
-    width: 200px;
+    width: 300px;
+}
+.container-2 {
+    max-width: 1400px;
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+.col-md-auto{
+    width: auto;
 }
